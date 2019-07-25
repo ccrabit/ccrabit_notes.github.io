@@ -1,0 +1,31 @@
+{
+    "title": "CCRabit's Notes",
+    "author": "CCRabit",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "pluginsConfig": {
+        "disqus": {
+          "shortName": "webpack-handbook"
+        },
+        "github": {
+          "url": "https://github.com/zhaoda/webpack-handbook"
+        },
+        "editlink": {
+          "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
+          "label": "编辑本页"
+        },
+        "baidu": {
+            "token": "a9787f0ab45d5e237bab522431d0a7ec"
+        },
+        "sitemap": {
+            "hostname": "http://zhaoda.net/"
+        }
+      }
+}
